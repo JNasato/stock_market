@@ -1,0 +1,29 @@
+{
+  "name": "stock_market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maxProfit.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNasato/stock_market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNasato/stock_market/issues"
+  },
+  "homepage": "https://github.com/JNasato/stock_market#readme"
+}
